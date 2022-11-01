@@ -1,0 +1,18 @@
+########################## TEST INSERT AND TRAVERSE OPERATION ##########################
+Generated listA (the first 20 elements): [8215, 3075, 9066, 5236, 817, 7584, 2077, 5017, 9991, 3975, 6974, 1003, 9912, 6396, 6592, 2526, 426, 3058, 5612, 1425]
+The tree is a red black tree after insert operation!
+Inserted 1000 values successfully!
+Traversed the red black tree successfully!
+########################## TEST SEARCH OPERATION ##########################
+Search all values successfully!
+########################## TEST MIN AND MAX OPERATION ##########################
+Find the minimized value of 6 in the red black tree successfully!
+Find the maximized value  of 9993 in the red black tree successfully!
+########################## TEST MEDIAN OPERATION ##########################
+Find the median value of 4953.0 successfully!
+########################## TEST INTERSECTION OPERATION ##########################
+Find the intersection successfully!
+########################## TEST DELETE OPERATION ##########################
+Select a value of 3216
+Deleted 3216 successfully!
+The tree is a red black tree after delete operation!
