@@ -3,7 +3,7 @@ There are four .py files in the project. The functions related to the node of a 
 The core functions of the red-black tree are implemented in RedBlackTree.py. 
 Besides, test.py contains functions of some test cases and functions for evaluating the performance of the algorithm. 
 Plus, main.py is the entry of the whole program. The code is commented in great detail so that all the functions can be understood easily. 
-To run the code, just type in python3 main.py in the terminal or run main.py in any IDE you like. 
+To run the code, just type in "python3 main.py" in the terminal or run main.py in any IDE you like. 
 Before running, make sure these packages are already installed to avoid errors: random, tqdm, timeit and matplotlib. 
 These libraries have nothing to do with the core function of red black tree. 
 But they are necessary for testing and illustrating the performance of the code. 
